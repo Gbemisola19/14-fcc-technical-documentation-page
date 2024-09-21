@@ -14,7 +14,7 @@ Additional description of the project and its features.
   - `z-index`, `position`, `padding`
   - `display`, `font-size`, `border-color`
 - Linters
-  - [Preettier](https://prettier.io/)
+  - [Prettier](https://prettier.io/)
   - [stylelint](https://stylelint.io/)
 
 ## Live Demo
