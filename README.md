@@ -1,6 +1,6 @@
 # FCC Technical Documentation Page
 
-> This is a poject about semantic html and CSS elements.
+> This is a certification project which give details about semantic html and CSS elements.
 
 ![screenshot](app_screenshot.png)
 
